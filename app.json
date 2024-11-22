@@ -32,7 +32,8 @@
           "resizeMode": "contain",
           "backgroundColor": "#ffffff"
         }
-      ]
+      ],
+      "expo-community-flipper"
     ],
     "experiments": {
       "typedRoutes": true
