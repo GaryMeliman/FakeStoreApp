@@ -4,16 +4,22 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
 
 ## Get started
 
-1. Install dependencies
+1. Instalar dependencias
 
    ```bash
-   npm install
+   npm install | yarn install
    ```
 
-2. Start the app
+2. Correr la aplicación
 
    ```bash
-    npx expo start
+    npm run android | yarn android
+    npm run ios | yarn ios
+   ```
+3. Correr pruebas de la aplicación
+
+   ```bash
+    npm run test | yarn test
    ```
 
 In the output, you'll find options to open the app in a
