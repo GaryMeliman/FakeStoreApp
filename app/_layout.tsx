@@ -2,7 +2,7 @@ import * as SplashScreen from 'expo-splash-screen';
 import 'react-native-reanimated';
 
 import { useFonts } from 'expo-font';
-import { useEffect } from 'react';
+import React, { useEffect } from 'react';
 import { Provider as PaperProvider } from 'react-native-paper';
 import { Provider } from 'react-redux';
 import MainNavigation from './navigations/MainNavigation';

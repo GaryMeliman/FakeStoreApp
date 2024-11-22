@@ -2,6 +2,11 @@
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
+## Datos de usuario
+
+username: mor_2314
+password: 83r5^_
+
 ## Get started
 
 1. Instalar dependencias
